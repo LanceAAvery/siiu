@@ -1,6 +1,5 @@
-# Template
+# TO85 siiu Repository
 
+Management of units between Système International d'Unités (SI) and Imperial Units (IU) plus other more obscure systems of units as needed.
 
-INDIface2 Face Image Processing Projects for EclipseIR.
-
-Copyright &copy; 1993-2020 Eclipse Identity Recognition Corporation. All rights reserved worldwide. See the adjacent LICENSE.txt file for details.
+Copyright &copy; 2021 Anthony Otto dba Tony Otto Research Company. See the adjacent LICENSE.txt file for details.
